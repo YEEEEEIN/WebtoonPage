@@ -9,7 +9,7 @@
 ## 개발환경
 
 - IDE: Eclipse yy버전
-- JDK 12
+- JDK 17
 - TOMCAT 9.0
 
 ## 실행 방법
