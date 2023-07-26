@@ -8,7 +8,7 @@
 
 ## 개발환경
 
-- IDE: Eclipse xx버전
+- IDE: Eclipse yy버전
 - JDK 12
 - TOMCAT 9.0
 
