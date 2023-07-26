@@ -14,4 +14,4 @@
 
 ## 실행 방법
 
-- 'Main.java'
+- 'MainWebtoonPage.java'
